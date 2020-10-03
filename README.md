@@ -1,4 +1,4 @@
-### SPOT THAT FIRE (Team StarTroopers) ###
+# SPOT THAT FIRE (Team StarTroopers) ###
 
 ## Project Stack and Structure ##
 
