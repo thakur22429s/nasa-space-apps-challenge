@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:app="http://schemas.android.com/apk/res-auto"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".MainActivity"
+                android:background="@drawable/fire_bckgrnd"
+>
+
+    <TextView
+            android:layout_width="261dp"
+            android:layout_height="8dp"
+            android:layout_alignParentEnd="true"
+            android:layout_marginTop="356dp"
+            android:layout_marginEnd="51dp"/>
+
+    <Button
+            android:id="@+id/button"
+            android:layout_width="306dp"
+            android:layout_height="145dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="64dp"
+            android:layout_marginTop="282dp"
+            android:text="ARCHIVES" android:layout_alignParentEnd="true" android:layout_marginEnd="41dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display1" android:fontFamily="sans-serif-black"
+            android:typeface="sans" android:textStyle="italic" android:textAlignment="center"/>
+    <Button
+            android:id="@+id/button2"
+            android:layout_width="306dp"
+            android:layout_height="145dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="61dp"
+            android:layout_marginTop="78dp"
+            android:text="REPORT" android:textAppearance="@style/TextAppearance.AppCompat.Display1"
+            android:fontFamily="sans-serif-black" android:typeface="sans" android:textStyle="italic"
+            android:textAlignment="center"/>
+
+</RelativeLayout>
