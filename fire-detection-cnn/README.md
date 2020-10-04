@@ -1,4 +1,4 @@
-#Fire Detection
+# Fire Detection using TFLearn
 
 Sample outputs:
 
